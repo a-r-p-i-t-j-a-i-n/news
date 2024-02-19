@@ -1,0 +1,47 @@
+
+import './App.css';
+import React,{useState} from "react"
+
+
+function App() {
+let date =new Date().toLocaleTimeString();
+const [time,setTime]=useState(date);
+
+  const [count,setCount]=useState(0);
+  function getdate(){
+    console.log("hey")
+    const newtime=new Date().toLocaleTimeString();
+    setTime(newtime)
+  }
+   setInterval(getdate,1000);
+   
+  function increase(){
+    // const count=1;
+    setCount(count+1) 
+  }
+  function decrease(){
+    setCount(count-1)
+  }
+  function multiply(){
+ 
+    const one=prompt("enter the number ")
+
+    setCount(one*count)
+  }
+
+  return (
+   
+    <div className="App">
+      
+   <h1>{count}</h1>
+   <h2>{time}</h2>
+  <button onClick={increase} >+</button> 
+  
+  <button class='btn2' onClick={decrease} >-</button>
+  <button onClick={multiply} >*</button>
+  <button onClick={getdate}>get-time</button> 
+    </div>
+  );
+}
+
+export default App;

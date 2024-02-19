@@ -1,6 +1,26 @@
 .App {
   text-align: center;
 }
+h1{
+  height: 100px;
+}
+.btn2{
+  height: 100px;
+  width: 50px;
+}
+button{
+  color: red;
+  background-color: rgb(95, 110, 110);
+}
+button:hover{
+  background-color: black;
+}
+button:visited{
+  background-color: black;
+}
+h2{
+ 
+}
 
 .App-logo {
   height: 40vmin;

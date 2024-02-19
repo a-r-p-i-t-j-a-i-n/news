@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Trudeau facing cold reality after lonely week on world stage",
+        "description": "As tensions with India rise, Canada is calling its friends - but they're not answering.",
+        "url": "http://www.bbc.co.uk/news/in-pictures-66885924",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E7C/production/_131223518_881bee830c6a453a637ca4ea776e7ebc5c887275.jpg",
+        "publishedAt": "2023-09-25T08:07:18.1723279Z",
+        "content": "Media caption, Trudeau: We are not looking to 'provoke' India\r\nThis week in New York, as he listened to questions from reporters, Canadian Prime Minister Justin Trudeau's reliable smile began to fade… [+6197 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Woman's body found in jaws of 13ft Florida alligator identified",
+        "description": "A witness raised the alarm after seeing the large animal clutching human remains in a canal.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66907425",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36D2/production/_131243041_gettyimages-537083817.jpg",
+        "publishedAt": "2023-09-25T08:07:17.3756507Z",
+        "content": "A 13ft (4m) alligator has been killed, police say, after it was spotted in Florida with the remains of a woman in its jaws. \r\nA witness told local media he saw the alligator in a Largo canal clutchin… [+2341 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Passengers left upside down as ride malfunctions in Canada",
+        "description": "The park's maintenance team brought the passengers safely to the ground after 30 minutes.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66910324",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11840/production/_131244717_p0ggj6xd.jpg",
+        "publishedAt": "2023-09-25T07:52:17.5154085Z",
+        "content": "Passengers were left hanging upside down for almost 30 minutes, after an amusement park ride broke down in Vaughan, in Ontario, Canada.\r\nFootage from TikTok shows the malfunctioning ride inverted wit… [+394 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Messina Denaro: Notorious Italian Mafia boss dies",
+        "description": "The 61-year-old was thought to be a boss of the brutal Cosa Nostra and spent decades on the run.",
+        "url": "http://www.bbc.co.uk/news/world-europe-66909616",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F57C/production/_131244826_massinadenaro.jpg",
+        "publishedAt": "2023-09-25T06:37:18.8438177Z",
+        "content": "Italian Mafia boss Matteo Messina Denaro, who was one of the country's most wanted men until his capture earlier this year, has died.\r\nThe 61-year-old was thought to be a boss of the notorious Cosa N… [+2709 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Why asteroid Bennu samples are so important... in 83 seconds",
+        "description": "It is hoped the material from Bennu could tell Nasa how life on Earth began.",
+        "url": "http://www.bbc.co.uk/news/science-environment-66907727",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7DE0/production/_131242223_de28.jpg",
+        "publishedAt": "2023-09-25T05:37:16.9830867Z",
+        "content": "A capsule carrying precious samples from asteroid Bennu landed on Earth on Sunday.\r\nNasa scientists hope the material could give hints to how life here began.\r\nBBC Science editor Rebecca Morelle expl… [+98 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Chris Kaba: MoD offers military support after armed Met officers turn in weapons",
+        "description": "Review into armed police is set up as dozens turn in weapons after an officer faces a murder charge.",
+        "url": "http://www.bbc.co.uk/news/uk-66906201",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DAEC/production/_131244065_gettyimages-936282562-1.jpg",
+        "publishedAt": "2023-09-25T04:52:15.6875127Z",
+        "content": "The Ministry of Defence is offering soldiers to support armed police in London after dozens of Met officers stood down from firearms duties.\r\nMore than 100 officers have turned in permits allowing th… [+3430 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Canada row over parliament praise for Ukrainian Nazi war veteran",
+        "description": "The speaker of Canada's House of Commons apologises for honouring a man who served in a Nazi unit.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66908958",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F9BE/production/_131243936_18f27f0909d8b5b76f1d85ff071401d061d3a713-1.jpg",
+        "publishedAt": "2023-09-25T04:52:14.3753397Z",
+        "content": "The speaker of Canada's House of Commons, Anthony Rota, has apologised for praising a Ukrainian man who served in a Nazi unit during World War Two.\r\nYaroslav Hunka, 98, got a standing ovation in parl… [+2801 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hollywood writers in deal to end US studio strike",
+        "description": "Screenwriters hail an \"exceptional\" tentative deal to end a strike that has halted film and TV production.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66909250",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+        "publishedAt": "2023-09-25T03:52:16.7341003Z",
+        "content": "Screenwriters in the US say they have reached a tentative deal with studio bosses that could see them end a strike that has lasted nearly five months.\r\nThe Writers Guild of America (WGA) said it was … [+692 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Electric car rules could cost carmakers billions",
+        "description": "New Brexit trade rules could push up the price of electric cars, manufacturers warn.",
+        "url": "http://www.bbc.co.uk/news/business-66889029",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92D8/production/_131229573_electriccar_gettyimages-1387575615.jpg",
+        "publishedAt": "2023-09-24T23:52:14.7192252Z",
+        "content": "New Brexit trade rules covering electric vehicles could cost European manufacturers £3.75bn over the next three years, an industry body has said.\r\nThe rules are meant to ensure that EU-produced elect… [+3687 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Osiris-Rex: Nasa confirms return of asteroid Bennu samples",
+        "description": "A capsule carrying debris from asteroid Bennu lands safely in the Utah desert.",
+        "url": "http://www.bbc.co.uk/news/science-environment-66893661",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6F43/production/_131238482_36939727570_f0a326af90_onasa.jpg",
+        "publishedAt": "2023-09-24T18:07:18.724784Z",
+        "content": "Media caption, Watch: Why asteroid Bennu samples are so important... in 83 seconds\r\nDusty samples from the \"most dangerous known rock in the Solar System\" have been brought to Earth.\r\nThe American sp… [+4151 chars]"
+      }
+    ]
+  }
